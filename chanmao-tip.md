@@ -22,7 +22,7 @@
 
 5. 宣传图可做成滚动banner，放一些活动店家宣传图（类似手机app）
 
-6. Listify - WordPress Directory Theme
+6. Listify - WordPress Directory Theme （餐馆显示数量自适应屏幕宽度）
 
    ![首页](/Users/ginnymu/Desktop/Chanmao/cm-draft/首页.png)
 
@@ -31,39 +31,41 @@
 
 1. 每点一个菜有一个飞到购物车里的小动画，购物车栏出现。屏幕滑动时收起
 
-2. 购物车显示还差多少起送
+2. 向下滑动时店家宣传图收缩消失
 
-   ![屏幕快照 2017-01-25 上午10.41.17](/Users/ginnymu/Desktop/Chanmao/cm-draft/image/屏幕快照 2017-01-25 上午10.41.17.png)
+3. 左边目录设置fixed
 
-3. 向下滑动时店家宣传图收缩消失
+4. 清空购物车
 
-4. 查看送餐区域？（用户使用的概率有多大）
-
-5. 清空购物车
-
-6. 右边栏：购物车，配送提示，一周开店时间表，历史记录
+5. 右边栏：购物车，配送提示，一周开店时间表
 
    ![点餐页面](/Users/ginnymu/Desktop/Chanmao/cm-draft/点餐页面.png)
 
    ​
 
+   6. 关闭店家页面
+
+      ![点餐页面 – 关闭](/Users/ginnymu/Desktop/Chanmao/cm-draft/点餐页面 – 关闭.png)
+
    #### 个人信息####
 
-   1. 我的收藏：放在个人信息中/在首页加filter？
+   1. 我的收藏：放在个人信息中/在首页加filter
 
       ![我的订单](/Users/ginnymu/Desktop/Chanmao/cm-draft/我的订单.png)
 
    #### 购物车####
 
-   1. 左边订单栏用fixed
+   1. 左边订单栏设置fixed
    2. 配送费的问号鼠标滑过可显示配送费标准tooltip
    3. journal template
 
    ![Checkout](/Users/ginnymu/Desktop/Chanmao/cm-draft/image/Checkout.png)
 
-   4. Quick food - template   下单成功
+   4. Quick food - template   弹出下单成功窗口
 
       ![屏幕快照 2017-01-25 下午12.00.47](/Users/ginnymu/Desktop/Chanmao/cm-draft/image/屏幕快照 2017-01-25 下午12.00.47.png)
+
+      ​
 
       ![购物车](/Users/ginnymu/Desktop/Chanmao/cm-draft/购物车.png)
 
